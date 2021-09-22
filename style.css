@@ -1,0 +1,21 @@
+
+#webcam
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#selfieimage
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+#speechtextarea
+{
+    width: 300px;
+}
+
+body{
+    background: linear-gradient(lightyellow,lightblue,lightgreen,lightpink);
+}
